@@ -1,0 +1,18 @@
+# autosave and backup
+*.asv
+*.m~
+*.autosave
+# Simulink cache and generated code
+*.slxc
+slprj/
+sccprj/
+codegen/
+# compiled MEX and packaged toolboxes
+*.mex*
+*.mlappinstall
+*.mltbx
+helpsearch*/
+octave-workspace
+# OS noise
+.DS_Store
+Thumbs.db
